@@ -6,6 +6,7 @@ Databasen håller koll på kända anslutningar.
 Format
 ------
 Databasen är i CSV-format:
+
 1. Prioritet. Numeriskt eller strängen default.
 2. Typ. Ethernet, USB, Wifi.
 3. Senast använd
